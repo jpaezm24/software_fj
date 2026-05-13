@@ -1,0 +1,11 @@
+[INFO] Inicio del sistema[INFO] Cliente válido registrado
+[ERROR] El nombre no puede estar vacío
+[INFO] Servicio ReservaSala creado
+[INFO] Servicio AlquilerEquipo creado
+[INFO] Servicio AsesoriaEspecializada creada
+[INFO] Reserva confirmada correctamente
+[ERROR] La duración debe ser mayor a cero
+[INFO] Reserva asesoría creada
+[ERROR] La reserva ya estaba confirmada
+[INFO] Reserva cancelada
+[INFO] Sistema finalizado
